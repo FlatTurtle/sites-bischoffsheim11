@@ -42,7 +42,7 @@
     <section id="social" class="block colorful">
         <div class="container">
             <div id="copyright">
-                Copyright &copy; {{ date('Y') }} <a href="http://rentalvalue.eu">rentalVALUE</a> & <a href="http://flatturtle.com" target="_blank">FlatTurtle</a>.
+                Copyright &copy; {{ date('Y') }} <a href="http://rentalvalue.eu">rentalValue</a> & <a href="http://flatturtle.com" target="_blank">FlatTurtle</a>.
             </div>
         </div>
     </section>
