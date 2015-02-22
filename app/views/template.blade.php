@@ -35,7 +35,7 @@
         </div>
     </nav>
 
-@show
+@stop
 
 @section('footer')
 
